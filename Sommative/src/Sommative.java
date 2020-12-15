@@ -9,10 +9,10 @@ public class Sommative
 	public static void main(String[] args)
 		{
 			
-			int [] montab=new int[100];
+			int [] montab=new int[100];// tableau de 100 éléments
 			for(int i=0; i<100; i++)
 			{
-				montab[i]=(int)(Math.random()*(10000000));//pour que c'est une entier
+				montab[i]=(int)(Math.random()*(10000000));//pour les éléments hazard sont des entiers
 				
 			}
 			System.out.println(sommePremiers(montab));
