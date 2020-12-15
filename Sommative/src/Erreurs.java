@@ -4,7 +4,7 @@
 * Author : danielchan
 *Date : Dec. 15, 2020
 *Description des erreurs
-*1.Public class Erreurs le nom du classe et déclaration done le code doit être le même
+*1.Public class Erreurs le nom du classe et déclaration de le code doit être le même
 *2.pour une méthode public on doit déclarer un object puis utilise cet object pour la metthode
 *3.il faut mettre un espace après ami pour que c'est Bonjour mon ami Nom
 *4.on doit retourner le "string message" alors on ajoute return message
