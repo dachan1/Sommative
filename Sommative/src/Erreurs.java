@@ -16,17 +16,17 @@ public class Erreurs //Ceci doit être le nom du projet alors Erreurs
 	public static void main(String[] args)
 		{
 			
-			//String Daniel =new String(); 
-			//Daniel.saluerAmi();
+			String Daniel =new String(); 
+			Daniel.saluerAmi("John");// object qui fait la méthode
 			
-			System.out.println(saluerAmi("John"));
+			System.out.println(saluerAmi("John"));// on doit mettre "" à john
 
 		}
 		
-		public static String saluerAmi(String nom)
+		public String saluerAmi(String nom)
 		{
-			String message = "Bonjour mon ami " + nom;
-			return message;
+			String message = "Bonjour mon ami " + nom;// espace après mon ami
+			return message;// avoir le retturn message 
 		
 		}
 }
