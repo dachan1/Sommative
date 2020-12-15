@@ -3,6 +3,7 @@
 /*
 * Author : danielchan
 *Date : Dec. 15, 2020
+*methode qui permet de saluer un ami en utlisant son nom
 *Description des erreurs
 *1.Public class Erreurs le nom du classe et déclaration de le code doit être le même
 *2.pour une méthode public on doit déclarer un object puis utilise cet object pour la metthode
